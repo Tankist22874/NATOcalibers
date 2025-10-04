@@ -66,10 +66,6 @@ h1 {
   color: white;
 }
 
-a:visited {
-  color: purple;
-}
-
 img {
   opacity: 0.5;
   transition: border-radius 900ms ease,transform 900ms ease,opacity 900ms ease;
